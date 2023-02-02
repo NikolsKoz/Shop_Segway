@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shop_Segway/static/css/main.5528e9fd.css",
+    "main.js": "/Shop_Segway/static/js/main.1c3ab06d.js",
+    "static/media/Photo-manager.png": "/Shop_Segway/static/media/Photo-manager.562d17518911324b4fdd.png",
+    "index.html": "/Shop_Segway/index.html",
+    "main.5528e9fd.css.map": "/Shop_Segway/static/css/main.5528e9fd.css.map",
+    "main.1c3ab06d.js.map": "/Shop_Segway/static/js/main.1c3ab06d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5528e9fd.css",
+    "static/js/main.1c3ab06d.js"
+  ]
+}
