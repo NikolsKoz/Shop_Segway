@@ -1,0 +1,28 @@
+.presentation {
+  background-color: #323941;
+  padding: 0 15%;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  :hover{
+    background-color: #009EFF;
+    h4{
+    color: white;
+    }
+  }
+  .card {
+    width: 125px;
+    height: 110px;
+    color: darkgrey;
+    font-size: 18px;
+    margin: 8px 0;
+    text-align: center;
+    padding: 5px 5px;
+
+    img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+}

@@ -1,0 +1,118 @@
+.product {
+  padding: 15px 14% 0;
+  .wrap {
+    display: flex;
+    width: 100%;
+    min-height: 650px;
+    align-content: space-evenly;
+    .lot {
+      max-width: 520px;
+      display: flex;
+      flex-wrap: wrap;
+      align-content: space-between;
+      h2{
+        font-size: 80px;
+        max-width: 560px;
+        line-height: 87%;
+        margin: 15px 15px 0;
+      }
+      .guarantee {
+        border: 2px solid #999;
+        padding: 20px;
+        margin: 20px 0 5px;
+        h6{
+          font-size: 18px;
+        }
+        .year {
+          display: flex;
+          width: 100%;
+          justify-content: space-between;
+          padding: 13px 0 20px;
+
+          div {
+            border: 1px solid #999999;
+            width: 30%;
+            height: 30px;
+            line-height: 30px;
+            font-size: 13px;
+            text-align: center;
+          }
+        }//.-------year
+        .price {
+          display: flex;
+          justify-content: space-between;
+          img {
+            max-width: 120px;
+            height: 87px;
+          }
+
+          h3 {
+            font-size: 32px;
+          }
+
+          h4 {
+            text-decoration: line-through;
+            font-weight: 400;
+          }
+          .box:nth-child(2) {
+            max-width: 120px;
+          }
+          .box:nth-child(1){
+            display: flex;
+            justify-content: start;
+            margin: 0;
+          }
+
+
+          .box {
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 100px;
+            justify-content: end;
+            //margin: 0 auto;
+            span {
+              color: #009EFF;
+              font-weight: 600;
+            }
+          }
+        }//.-------price
+        .buttons {
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
+          margin-top: 13px;
+          button:nth-child(2){
+            margin-left: 20px;
+          }
+          .btn_price {
+            width: 230px;
+            height: 40px;
+            background-color: #009EFF;
+            border: none;
+            color: white;
+            font-weight: 700;
+          }
+        }//--------.buttons
+      }//---------.guarantee
+      .card {
+        width: 520px;
+        margin: 20px 0;
+        div{
+          display: flex;
+          max-width: 520px;
+          justify-content: space-between;
+          margin-top: 5px;
+        }
+        img {
+          max-width: 26px;
+          max-height: 16px;
+        }
+      }//---------.card
+    }//---------.lot
+    .image{
+      margin-top: 20px;
+      max-width: 470px;
+      max-height: 700px;
+    }
+  }//---------.wrap
+}//-------.product

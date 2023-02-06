@@ -1,0 +1,25 @@
+.overview{
+  text-align: center;
+  padding: 40px 14%;
+  h2{
+    font-size: 50px;
+  }
+  .wrapOverview{
+    display: flex;
+    justify-content: space-between;
+    img{
+      width: 525px;
+      margin: 20px 0 0 40px;
+    }
+    ol{
+      margin: 60px 120px 0 0;
+      line-height: 1.9;
+      text-align: start;
+      li{
+        padding-left: 20px;
+        font-size: 18px;
+        color: #999999;
+      }
+    }
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "keys": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    }
+  ],
+  "products":[
+    {
+      "id": 1,
+      "img_header": "https://drive.google.com/uc?id=1pMOG_P7FJWBQCpB6XsUVeH87V60cnD89",
+      "img_main": "https://drive.google.com/uc?id=1JKbk3DRBCMvfbpV92LujTq_HpiwUcMHg",
+      "img_svg": "",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/1",
+      "name": "SEGWAY NINEBOT KIKSCOOTER E22",
+      "name_shot": "KS E22",
+      "max-speed": "20 km/h",
+      "max-distance": "22 km",
+      "weight": "13.5 kg",
+      "capacity": "184 wAh",
+      "carrying_capacity": "25kg - 100kg",
+      "charging_time": "3.5 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "----",
+      "security": "rear LED light",
+      "price": "$949,55",
+      "price_start": "$1049,99"
+    },
+    {
+      "id": 2,
+      "img_header": "https://drive.google.com/uc?id=1NmhetO_xhZu9Y02GCcuA0SMpoYOcCMcp",
+      "img_main": "https://drive.google.com/uc?id=1S8alm2N9qMF7Yc-HJSph4AHVmZD6jFVJ",
+      "img_svg": "",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/2",
+      "name": "SEGWAY NINEBOT KIKSCOOTER ES1L",
+      "name_shot": "KS ES1L",
+      "max-speed": "20 km/h",
+      "max-distance": "20 km",
+      "weight": "10.3 kg",
+      "capacity": "4500 mAh",
+      "carrying_capacity": "25kg - 100kg",
+      "charging_time": "6 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 250W",
+      "output_power": "42W",
+      "maximum_tilt": "7%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1049,55",
+      "price_start": "$1149,55"
+    },
+    {
+      "id": 3,
+      "img_header": "https://drive.google.com/uc?id=13VMQWXEqxeKgreXzd04IwM2ehYmJiUaW",
+      "img_main": "https://drive.google.com/uc?id=1D5LEiY5l-A07ezpqK46pgEPl8Gc1xny2",
+      "img_svg": "",
+      "img_footer": "https://drive.google.com/uc?id=1k2EZ11gkjfm0gQROpFPUF0X6l3uNWmOO",
+      "link": "/Shop_Segway/products/3",
+      "name": "SEGWAY NINEBOT KIKSCOOTER ART T15",
+      "name_shot": "KS ART T15",
+      "max-speed": "20 km/h",
+      "max-distance": "12 km",
+      "weight": "13.5 kg",
+      "capacity": "4000 mAh",
+      "carrying_capacity": "30kg - 100kg",
+      "charging_time": "4 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "----",
+      "security": "rear LED light",
+      "price": "$900,50",
+      "price_start": "$1000,50"
+    },
+    {
+      "id": 4,
+      "img_header": "https://drive.google.com/uc?id=1f1HXmR5XIYKQ20MMMeseMQMaTS0N5i2D",
+      "img_main": "https://drive.google.com/uc?id=1Hn3R7GUbg8BOh46xsyjQ9gJN5OTXUozj",
+      "img_svg": "",
+      "img_footer": "https://drive.google.com/uc?id=1xqHwCeiK7fj6ojHP4E_vbqAeGBBvgR9-",
+      "link": "/Shop_Segway/products/4",
+      "name": "SEGWAY NINEBOT KIKSCOOTER F30",
+      "name_shot": "KS F30",
+      "max-speed": "25 km/h",
+      "max-distance": "30 km",
+      "weight": "15.1 kg",
+      "capacity": "6400 mAh",
+      "carrying_capacity": "30kg - 120kg",
+      "charging_time": "5 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "----",
+      "security": "rear LED light",
+      "price": "$1649,55",
+      "price_start": "$1749,55"
+    },
+    {
+      "id": 5,
+      "img_header": "https://drive.google.com/uc?id=1Thnurrc12nMyfcW4M4vEuHq5O6n7n5Hv",
+      "img_main": "https://drive.google.com/uc?id=17g3dz80DVPWZDs5QgKTkOsxgTEcjsyJF",
+      "img_svg": "https://drive.google.com/uc?id=1tsjYBptguzdu86wmzamcO0zUQT1x4Y1z",
+      "link": "/Shop_Segway/products/5",
+      "name": "SEGWAY NINEBOT KIKSCOOTER E45",
+      "name_shot": "KS E45",
+      "max-speed": "30 km/h",
+      "max-distance": "45 km",
+      "weight": "16.4 kg",
+      "capacity": "10200 mAh",
+      "carrying_capacity": "25kg - 100kg",
+      "charging_time": "7.5 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "20%",
+      "backlight": "----",
+      "security": "rear LED light",
+      "price": "$1570,55",
+      "price_start": "$1670,55"
+    },
+    {
+      "id": 6,
+      "img_header": "https://drive.google.com/uc?id=1iNHPSPcd-n4cHKtCKChUpMr78Bn5SPLi",
+      "img_main": "https://drive.google.com/uc?id=1iBEQ5Cqfq683JsTvXA_H2PIF3Qwga33-",
+      "img_svg": "",
+      "img_footer": "https://drive.google.com/uc?id=11UmopA-PtXAPrzx5JWhoXuPTZygnyH7O",
+      "link": "/Shop_Segway/products/6",
+      "name": "SEGWAY NINEBOT KIKSCOOTER MAX",
+      "name_shot": "KS MAX",
+      "max-speed": "30 km/h",
+      "max-distance": "65 km",
+      "weight": "18,7 kg",
+      "capacity": "18400 mAh",
+      "carrying_capacity": "30kg - 100kg",
+      "charging_time": "8 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 350W",
+      "output_power": "121W",
+      "maximum_tilt": "20%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1940,55",
+      "price_start": "$2040,55"
+    },
+    {
+      "id": 7,
+      "img_header": "https://drive.google.com/uc?id=10gjiWbIzo8o4mCaWIZiQD8Y8GGbPIo6l",
+      "img_main": "https://drive.google.com/uc?id=1Ax0jnpyTYIaDtfNKv_eP-3PSXUpKRhxk",
+      "img_svg": "",
+      "img_footer": "https://drive.google.com/uc?id=1tnV0lv3s3iJ2AEt5z-kEVGaNxeuvZPcZ",
+      "link": "/Shop_Segway/products/7",
+      "name": "SEGWAY NINEBOT KIKSCOOTER MAX-2",
+      "name_shot": "KS MAX-2",
+      "max-speed": "30 km/h",
+      "max-distance": "65 km",
+      "weight": "18,7 kg",
+      "capacity": "18400 mAh",
+      "carrying_capacity": "30kg - 100kg",
+      "charging_time": "8 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 350W",
+      "output_power": "121W",
+      "maximum_tilt": "20%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1940,55",
+      "price_start": "$2040,55"
+    },
+    {
+      "id": 8,
+      "img_header": "https://drive.google.com/uc?id=1UVn6hBLCQKKOiUZB2NfnWY5iEH2P0EeZ",
+      "img_main": "https://drive.google.com/uc?id=1ewuOADQMQrwks4OzrXToQmyWtQ-m9t_P",
+      "img_svg": "https://drive.google.com/uc?id=1eExfGyKGW01iV9kryP4kZKBrgnJz3_Kl",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/8",
+      "name": "SEGWAY NINEBOT KIKSCOOTER ES2",
+      "name_shot": "EKS ES2",
+      "max-speed": "25 km/h",
+      "max-distance": "25 km",
+      "weight": "12.5 kg",
+      "capacity": "10870 mAh",
+      "carrying_capacity": "25kg - 100kg",
+      "charging_time": "3.5 h",
+      "number_of_batteries": "1 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "----",
+      "security": "rear LED light",
+      "price": "$1540,35",
+      "price_start": "$1640,35"
+    },
+    {
+      "id": 9,
+      "img_header": "https://drive.google.com/uc?id=1sZhOsA3BQNcBggw9HgeZ1yW0KSq4IACu",
+      "img_main": "https://drive.google.com/uc?id=1tNbNkW0LOXxPapRRozrxpJg-ppImWMTp",
+      "img_svg": "",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/9",
+      "name": "SEGWAY NINEBOT KIKSCOOTER ES3",
+      "name_shot": "EKS ES3",
+      "max-speed": "20 km/h",
+      "max-distance": "45 km",
+      "weight": "13.6 kg",
+      "capacity": "1200 mAh",
+      "carrying_capacity": "25kg - 100kg",
+      "charging_time": "7 h",
+      "number_of_batteries": "2 built-in",
+      "motor_power": "rated 250W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1439,00",
+      "price_start": "$1539,00"
+    },
+    {
+      "id": 10,
+      "img_header": "https://drive.google.com/uc?id=1M0uNmRk9ShfTZwfQ0KBVglsnk06EYZa2",
+      "img_main": "https://drive.google.com/uc?id=1-7p2gQwHg7E3P9Nxd62eEfi4poHtbMJ8",
+      "img_svg": "",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/10",
+      "name": "SEGWAY NINEBOT KIKSCOOTER ES4",
+      "name_shot": "EKS ES4",
+      "max-speed": "30 km/h",
+      "max-distance": "42 km",
+      "weight": "13.5 kg",
+      "capacity": "1200 mAh",
+      "carrying_capacity": "35kg - 100kg",
+      "charging_time": "7 h",
+      "number_of_batteries": "2 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1399,55",
+      "price_start": "$1499,55"
+    },
+    {
+      "id": 11,
+      "img_header": "https://drive.google.com/uc?id=1gVirGvc6yrFTGTbLI-NG_BtnWFfksvqc",
+      "img_main": "https://drive.google.com/uc?id=1FlBDYZ451avQUyESze5SL0qgoqo0a0WQ",
+      "img_svg": "",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/11",
+      "name": "SEGWAY NINEBOT KIKSCOOTER EKS ZING E6",
+      "name_shot": "EKS ZING E6",
+      "max-speed": "30 km/h",
+      "max-distance": "42 km",
+      "weight": "13.5 kg",
+      "capacity": "1200 mAh",
+      "carrying_capacity": "35kg - 100kg",
+      "charging_time": "7 h",
+      "number_of_batteries": "2 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1399,55",
+      "price_start": "$1499,55"
+    },
+    {
+      "id": 12,
+      "img_header": "https://drive.google.com/uc?id=10BV12gnPAFV_Xi2v0K4JSMFhUQI8Hrus",
+      "img_main": "https://drive.google.com/uc?id=1QaY6XXtXTJphdV4XGC6dBlhaTOfrsAIA",
+      "img_svg": "https://drive.google.com/uc?id=1YI8r92Q6oqIIfnYFEINtvUwh3aRn50yQ",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/12",
+      "name": "SEGWAY NINEBOT KIKSCOOTER EKS ZING E8",
+      "name_shot": "EKS ZING E8",
+      "max-speed": "30 km/h",
+      "max-distance": "42 km",
+      "weight": "13.5 kg",
+      "capacity": "1200 mAh",
+      "carrying_capacity": "35kg - 100kg",
+      "charging_time": "7 h",
+      "number_of_batteries": "2 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1199,55",
+      "price_start": "$1299,55"
+    },
+    {
+      "id": 13,
+      "img_header": "https://drive.google.com/uc?id=1jkBQ3qzrr4k3UESBuOFdwI4BEl2p_IWb",
+      "img_main": "https://drive.google.com/uc?id=14JcE4QyEuukF1J9Wd26S6Y_LNJGZg_Gv",
+      "img_svg": "",
+      "img_footer": "",
+      "link": "/Shop_Segway/products/13",
+      "name": "SEGWAY NINEBOT KIKSCOOTER EKS ZING E9",
+      "name_shot": "EKS ZING E9",
+      "max-speed": "30 km/h",
+      "max-distance": "42 km",
+      "weight": "13.5 kg",
+      "capacity": "1200 mAh",
+      "carrying_capacity": "35kg - 100kg",
+      "charging_time": "7 h",
+      "number_of_batteries": "2 built-in",
+      "motor_power": "rated 300W",
+      "output_power": "71W",
+      "maximum_tilt": "15%",
+      "backlight": "front",
+      "security": "rear LED light",
+      "price": "$1099,55",
+      "price_start": "$1199,55"
+    },
+    {
+      "id": 14,
+      "img_header": "https://drive.google.com/uc?id=1AuyueS0W5_rJXj7nkDnZuNAv2V5BW4Iz",
+      "img_main": "https://drive.google.com/uc?id=1rJxcyb_KtXKEAlUiJC6L1yMtS9iKexhj",
+      "img_svg": "https://drive.google.com/uc?id=1rJxcyb_KtXKEAlUiJC6L1yMtS9iKexhj",
+      "img_footer": "https://drive.google.com/uc?id=1uYKIM2LcP-e5qEL-TEMqqfLK85TDuXqU",
+      "link": "/Shop_Segway/products/14",
+      "name": "PRO-TEC CLASSIC CERT HELMET",
+      "name_shot": "ACCESSORIES",
+      "max-speed": "----",
+      "max-distance": "----",
+      "weight": "5 kg",
+      "capacity": "----",
+      "carrying_capacity": "----",
+      "charging_time": "----",
+      "number_of_batteries": "----",
+      "motor_power": "----",
+      "output_power": "----",
+      "maximum_tilt": "----",
+      "backlight": "----",
+      "security": "----",
+      "price": "$99,55",
+      "price_start": "$79,55"
+    }
+  ],
+  "accessories":[
+    {
+      "id": 1,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1jOk4fhdlxezxCErvIaKL26ykUkmUBH6f",
+      "img_mob": "",
+      "name": "NINEBOT ENGINE SPEAKER",
+      "content": "The built-in engine sound simulation system can simulate the realistic engine roar based on the vehicle's accelerator, brake, speed, and other signals.",
+      "price": "$149.99"
+    },
+    {
+      "id": 2,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=106TxcyPu3pNnorj3TZAheaWgKbUtXShn",
+      "img_mob": "",
+      "name": "SEGWAY EXTENSION ROD",
+      "content": "The Extension Rod helps you to easily maneuver your scooter, so you no longer need to bend over and push it, making it easier to take with you anywhere.",
+      "price": "$29.99"
+    },
+    {
+      "id": 3,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1ICeBoJ02hhb-vXf9UPuVOxmUkkuYqwfY",
+      "img_mob": "",
+      "name": "SEGWAY PROTECTIVE GEAR SET",
+      "content": "The curved, streamlined design of the helmet shell, coupled with the thick, high-quality fabrics create a helmet that is stylish, protective and comfortable to wear.",
+      "price": "$29.99"
+    },
+    {
+      "id": 4,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=19CN1cnaS5e7XHraTI94vZVcpiKofL5v3",
+      "img_mob": "",
+      "name": "NINEBOT LEISURE BACKPACK",
+      "content": "The Ninebot leisure backpack adopts a stylish gray-yellow color contrast, adding a trendy accessory to your wardrobe.",
+      "price": "$69.99"
+    },
+    {
+      "id": 5,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1bIx-Rxh-7_TWbZKcfepCDePzIsrSITVp",
+      "img_mob": "",
+      "name": "SEGWAY EXTERNAL BATTERY",
+      "content": " It is easy to install and increases the range of the ES1, ES2 & E22 to 27.9, 28 and 27 miles respectively and It also increases the speed",
+      "price": "$249.99"
+    },
+    {
+      "id": 6,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1tgxw8TOOFbZnDRt11A_0MtsDzPQcJ5Eg",
+      "img_mob": "",
+      "name": "SEGWAY CHARGER",
+      "content": "Whether at home, the office, or on your KickScooter journey, this Ninebot KickScooter by Segway Charger is designed to provide a safe and stable charge anytime, anywhere.",
+      "price": "$79.99"
+    },
+    {
+      "id": 7,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1RRUXeOQfPC4jyXRMUBTtnnkWBvYSrwq2",
+      "img_mob": "",
+      "name": "SEGWAY SCOOTER BAG",
+      "content": "Tough EVA material, suitable for the entire Ninebot KickScooter by Segway line. 3L capacity gives you plenty of room to carry your phone, charger, bottled water, and other personal items.",
+      "price": "$49.99"
+    },
+    {
+      "id": 8,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1ZhfK1LZUs2_eDbnk4DC89u2sT48bHd4O",
+      "img_mob": "",
+      "name": "SEGWAY PHONE HOLDER",
+      "content": "The dual screw, non-slip design offers ultimate security and versatility. The phone holder is applicable to multiple vehicle series.",
+      "price": "$29.99"
+    },
+    {
+      "id": 9,
+      "link": "",
+      "img": "https://drive.google.com/uc?id=1_rMFNCejh0-a1cPRPw8WFLM35AoORoch",
+      "img_mob": "",
+      "name": "SEGWAY PHONE HOLDER",
+      "content": "This scooter seat is designed to work with the MAX. It offers high quality, comfort and safety that is in line with the MAX KickScooter.",
+      "price": "$119.99"
+    }
+  ],
+  "card": [
+    {
+      "id": "1",
+      "link": "https://drive.google.com/uc?id=1-14nxVTk1QhobgYzaZZo88u8l34Y4M_H"
+    },
+    {
+      "id": "2",
+      "link": "https://drive.google.com/uc?id=1Hi3Av-9DZEfKh_wK2EcCd2hIiGbiUDtV"
+    },
+    {
+      "id": "3",
+      "link": "https://drive.google.com/uc?id=191CLvlVWLy6k47BsxavHrctRjM5KWDPt"
+    },
+    {
+      "id": "4",
+      "link": "https://drive.google.com/uc?id=1Kr3FBDF4U89AjbWpq3bTF9efQC_79P17"
+    },
+    {
+      "id": "5",
+      "link": "https://drive.google.com/uc?id=1ksz11ptmPhRN2fP1oPNYRIZEYR2Rfutb"
+    },
+    {
+      "id": "6",
+      "link": "https://drive.google.com/uc?id=15bIEBlzOhfOskjkwV3ZLN3QN_Wsu72x0"
+    },
+    {
+      "id": "7",
+      "link": "https://drive.google.com/uc?id=1nEPCN2y8V-pjuLLvlqCLuAk8JKZseFyb"
+    },
+    {
+      "id": "8",
+      "link": "https://drive.google.com/uc?id=1cEuUo8FFi2s5LuH0XGYgeELtm9RgqRGl"
+    },
+    {
+      "id": "9",
+      "link": "https://drive.google.com/uc?id=19Nnr2Xdmt9Rfqkf0yCtBj7ug4OEUJj0A"
+    },
+    {
+      "id": "10",
+      "link": "https://drive.google.com/uc?id=1cr-ULU9dCFME5_Ji14pT76eYw-36m1MJ"
+    },
+    {
+      "id": "11",
+      "link": "https://drive.google.com/uc?id=1yTUpRBhQrXwP-128l2SaJFP_HiK_LJdo"
+    },
+    {
+      "id": "12",
+      "link": "https://drive.google.com/uc?id=1M5belW72ps-kzG6T-IdOtfJda7FRojxl"
+    },
+    {
+      "id": "13",
+      "link": "https://drive.google.com/uc?id=1ICrC3C5Bo6hQdqlidL98X8dyYB8PXLJ9"
+    },
+    {
+      "id": "14",
+      "link": "https://drive.google.com/uc?id=1bUS6hOctvkzMlsDMV363jF2IuEJATH74"
+    },
+    {
+      "id": "15",
+      "link": "https://drive.google.com/uc?id=1-14nxVTk1QhobgYzaZZo88u8l34Y4M_H"
+    },
+    {
+      "id": "16",
+      "link": "https://drive.google.com/uc?id=1OcPbE3odyCzg8pCuzUONFXOXhEvyBFJp"
+    }
+  ],
+  "button": [
+    {
+      "id": "1",
+      "link": "/Shop_Segway/products/button/1",
+      "btn": "https://drive.google.com/uc?id=1CfKEKMwokqoz7mHpAf2kYCaG4MjCfrvS",
+      "btn_w": "https://drive.google.com/uc?id=1Ye6fA4b9MfEUDzm0KWgKAqKZHoFHt67s",
+      "btn_mob": "https://drive.google.com/uc?id=10yH0cB-6YjhwBK5ifhDvbBWlSJQ_Salv",
+      "btn_w_mob": "https://drive.google.com/uc?id=1di8hZpRo_0weK_KWlUgvxkX1Ia654GKg",
+      "title": "WE ARE IN LOS ANGELES, CA",
+      "content": "Free California 1 day shipping. US Free Shipping 3-5 Days",
+      "logo": "https://drive.google.com/uc?id=16uCqHLrJ_djRtOpDDOc-WixUTaUpAT4B",
+      "logo_mob": "https://drive.google.com/uc?id=16uCqHLrJ_djRtOpDDOc-WixUTaUpAT4B"
+    },
+    {
+      "id": "2",
+      "link": "/Shop_Segway/products/button/2",
+      "btn": "https://drive.google.com/uc?id=1B86k9pE2O0LXfAEuORA9_DXouSAegSem",
+      "btn_w": "https://drive.google.com/uc?id=13StskYKP6N0uRhT_SJGsfYngcdO0AilY",
+      "btn_mob": "https://drive.google.com/uc?id=15nr19qxZ1T2oE42aVcNH8_fbODIf99w5",
+      "btn_w_mob": "https://drive.google.com/uc?id=15nr19qxZ1T2oE42aVcNH8_fbODIf99w5",
+      "title": "ONE YEAR MANUFACTURER'S WARRANTY",
+      "content": "The basic warranty is 1 year. You can also extend the warranty up to 4 years.",
+      "logo": "https://drive.google.com/uc?id=1oknmuT0x1Gn_ENfdOwtmDDpp7Ehfmeur",
+      "logo_mob": "https://drive.google.com/uc?id=1DSzv7wrJhl4QxZifIN_dkdQSAhcoHrHd"
+    },
+    {
+      "id": "3",
+      "link": "/Shop_Segway/products/button/3",
+      "btn": "https://drive.google.com/uc?id=1UZC6oYrFyf-eUhcHDmPjCoaLTJ-XpMOk",
+      "btn_w": "https://drive.google.com/uc?id=1ru49J-TfwRh3eF7I-UeXwpTBstfOuvME",
+      "btn_mob": "https://drive.google.com/uc?id=1bWogFYBZvAE31-uRel6TZIhNpeaMFxIi",
+      "btn_w_mob": "https://drive.google.com/uc?id=1NZLMCMROMZcpTs78ogZT-qtQZHS5NT2B",
+      "title": "AFTER SALES SUPPORT",
+      "content": "If you have any difficulties with your kickscooter, our specialists will contact you within 15 minutes",
+      "logo": "https://drive.google.com/uc?id=1mUQtS2DlMVJxeBOaSEzaIRNSOur5LBoX",
+      "logo_mob": "https://drive.google.com/uc?id=1h7woHl5q6gvRIZk99TMKRMnZZ4WI7Dci"
+    },
+    {
+      "id": "4",
+      "link": "/Shop_Segway/products/button/4",
+      "btn": "https://drive.google.com/uc?id=1bVHrBAWWkESzJbUYDXR9DIVvHMaVLNfS",
+      "btn_w": "https://drive.google.com/uc?id=1olsZvgbkOxyH-dtLRlINRzcdQVKdTUpi",
+      "btn_mob": "https://drive.google.com/uc?id=1F9ORsZVZS_qJFgk8w0-Lyb3hB9Q3egSv",
+      "btn_w_mob": "https://drive.google.com/uc?id=1WqiJUp4OJSC7iWRWDhmpp9h9tOYMb0Kd",
+      "title": "UP TO 40 MILES OF RANGE ON A SINGLE CHARGE",
+      "content": "With a range of up to 40 miles, the longest range on the market, and a 20˚uphill climbing angle, the KickScooter MAX allows you to ride from San Francisco Bay Area to Palo Alto on a single charge.",
+      "logo": "https://drive.google.com/uc?id=1i4Iyl780CSLAVsuRdP_JAgq85Xw7cHRC",
+      "logo_mob": "https://drive.google.com/uc?id=1BNP-_MRT1u8nZQIGwbT1qWCoDYcbrUOu"
+    }
+  ],
+  "icons":[
+    {
+      "id": "1",
+      "svg": "https://drive.google.com/uc?id=1SKcV0cFLiJKaNcSQl6bGjSGc3EufgpZy",
+      "name": "10'",
+      "content": "Pneumatic Tires"
+    },
+    {
+      "id": "2",
+      "svg": "https://drive.google.com/uc?id=1yyt5ogb4tOyUE2DBwNYNuWbRM0zw5llA",
+      "name": "LED",
+      "content": "Front LED Lights"
+    },
+    {
+      "id": "3",
+      "svg": "https://drive.google.com/uc?id=1vgQiJ_eGBJE-1pWGvS7ePyutxWOrSiYV",
+      "name": "18.6 mph",
+      "content": "Max Speed"
+    },
+    {
+      "id": "4",
+      "svg": "https://drive.google.com/uc?id=1sOU2ui39xz71Fl3Jm6BYDXb6JSIHFqHV",
+      "name": "40.4 Miles",
+      "content": "Max Range"
+    },
+    {
+      "id": "5",
+      "svg": "https://drive.google.com/uc?id=1uMNvCr3N3cVBhbmZwycVjDNGZHY4hqcU",
+      "name": "20%",
+      "content": "Hill Grade"
+    },
+    {
+      "id": "6",
+      "svg": "https://drive.google.com/uc?id=1u1VXKzTm3eQ1th-_wzVSfIQDGHCOARlK",
+      "name": "IPX5",
+      "content": "Water-Resistant"
+    },
+    {
+      "id": "7",
+      "svg": "https://drive.google.com/uc?id=1ri6X8eeJ3X91CRJoJWiuJ1r9m_rZnC3l",
+      "name": "6H",
+      "content": "Fast Charging"
+    },
+    {
+      "id": "8",
+      "svg": "https://drive.google.com/uc?id=1ZxFzPP4E0sYZzNGREVBJ62gQS1JAZXUe",
+      "name": "551Wh",
+      "content": "Battery"
+    }
+  ],
+  "info": [
+    {
+      "background": "https://drive.google.com/uc?id=11YEtETDS6RlEYOmt1_6Vt3CPW1TMO7S8",
+      "title": "Smart battery\nManagement system\n(Smart-BMS)",
+      "text": "The Smart-BMS closely monitors the battery status with multiple \u2028protection mechanisms to ensure the battery durability"
+    },
+    {
+      "background": "https://drive.google.com/uc?id=1KfDIsnjaDOlA2kWJYEfF5hlMd8O5LbQk",
+      "title": "Dual Braking \nSystem",
+      "text": "Simultaneous mechanical front drum brake and regenerative electric back brake provide both stability and steerability.\n\n*IPX5 water resistance"
+    },
+    {
+      "background": "https://drive.google.com/uc?id=1Juo7ahQx86NMgnZd-cNx8S1aDl16wMIh",
+      "title": "Built-In Front \nLED Light",
+      "text": "Front-facing lights are designed with 2.5w high-brightness LED light to illuminate the path ahead of you and increase your visibility to others around you.\n\n*Disclaimer: for your safety, please try not to ride at night"
+    },
+    {
+      "background": "https://drive.google.com/uc?id=19S1G7SpIdEmFkn8zb-9thUiFjx66kvDR",
+      "title": "One-step Folding Mechanism",
+      "text": "Ninebot KickScooter MAX can be easily folded and carried around in 3 seconds."
+    },
+    {
+      "background": "https://drive.google.com/uc?id=1KYKMOePsm2QMeNnBwijuEs7NZJNbikxh",
+      "title": "Regenerative Brake for Power Recycle\n",
+      "text": "The innovative regenerative brake system turns Ninebot KickScooter MAX into an electric vehicle powered by electricity and recycled energy from riding. Energy will be collected from regenerative braking and distributed when you need a boost."
+    },
+    {
+      "background": "https://drive.google.com/uc?id=17u1a1_0ZWqk-Wq45wxRN4fkGOdqZd0w-",
+      "title": "Easy One Cord \nFast Charging\n",
+      "text": "The built-in charger lets riders recharge it easily when on the go without having to carry along a bulky charging adapter. 3A fast charge will give Ninebot KickScooter MAX a full charge in 6 hours.\n"
+    },
+    {
+      "background": "https://drive.google.com/uc?id=1XqjQ5dRGYkj5ZhJNVRoL9TdYcMkyFdoK",
+      "title": "3 Riding Modes\n",
+      "text": "Eco, Standard, and Sports modes can be directly accessed by the intuitive LED dashboard, which also displays maintenance signals, power levels, Bluetooth connectivity and more.\n"
+    }
+  ]
+}
