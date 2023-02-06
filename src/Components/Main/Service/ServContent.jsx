@@ -9,7 +9,7 @@ export const ServContent = (props) => {
     return(
         <>
             <Routes>
-                <Route path="/ShopSegway/*"
+                <Route path="/Shop_Segway/*"
                        element={<>
                            <div className={style.servwrap}>
                                <h4>{props.button_1.title}</h4>
@@ -18,7 +18,7 @@ export const ServContent = (props) => {
                            <img src={props.button_1.logo} alt=""/>
                        </>}/>
 
-                <Route path="/ShopSegway/button/1"
+                <Route path="/Shop_Segway/button/1"
                        element={<>
                            <div className={style.servwrap}>
                                <h4>{props.button_1.title}</h4>
@@ -27,7 +27,7 @@ export const ServContent = (props) => {
                            <img src={props.button_1.logo} alt=""/>
                        </>}/>
 
-                <Route path="/ShopSegway/button/2"
+                <Route path="/Shop_Segway/button/2"
                        element={<>
                            <div className={style.servwrap}>
                                <h4>{props.button_2.title}</h4>
@@ -36,7 +36,7 @@ export const ServContent = (props) => {
                            <img src={props.button_2.logo} alt=""/>
                        </>}/>
 
-                <Route path="/ShopSegway/button/3"
+                <Route path="/Shop_Segway/button/3"
                        element={<>
                            <div className={style.servwrap}>
                                <h4>{props.button_3.title}</h4>
@@ -45,7 +45,7 @@ export const ServContent = (props) => {
                            <img src={props.button_3.logo} alt=""/>
                        </>}/>
 
-                <Route path="/ShopSegway/button/4"
+                <Route path="/Shop_Segway/button/4"
                        element={<>
                            <div className={style.servwrap}>
                                <h4>{props.button_4.title}</h4>

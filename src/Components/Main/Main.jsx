@@ -27,9 +27,9 @@ export const Main = (props) => {
                     <div className={style.prod_show}>
 
                         <Routes>
-                            <Route path="/ShopSegway/"
+                            <Route path="/Shop_Segway"
                                    element={<Product product={props.product[0]} card={props.card}/>}/>
-                            {props.product.map(item =><Route path={`/ShopSegway/products/${item.id}`}
+                            {props.product.map(item =><Route path={`/Shop_Segway/products/${item.id}`}
                                    element={<Product_2 product={item} card={props.card}/>}/>)}
                         </Routes>
 
