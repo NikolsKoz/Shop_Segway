@@ -9,6 +9,8 @@ import {Accessories} from "./Accessories/Accessories";
 import {Features} from "./Features";
 import {Overview} from "./Overview/Overview";
 import {Info} from "./Info/Info";
+import {Specifications} from "./Specifications/Specifications";
+import {TitleSpec} from "./Specifications/TitleSpec";
 
 
 export const Main = (props) => {
@@ -51,10 +53,21 @@ export const Main = (props) => {
                     </div>
                 </div>
                 <Overview/>
-                <div className={style.wrapInfo} >
+                <div className={style.wrapInfo}>
                     {props.info.map(item => <Info item={item}/>)}
                 </div>
-            </div>
+                <div className={style.specifications}>
+                    <h2>compare specifications</h2>
+                    <div className={style.wrapSpec}>
+                        <div className={style.boxSpec_1}>
+                            {props.specification.map(item => <TitleSpec item={item}/>)}
+                        </div>
+                        <div className={style.boxSpec_2}>
+                            {props.product.map(item => <Specifications item={item}/>)}
+                        </div>
 
-    )
+                    </div>
+                </div>
+            </div>
+)
 }

@@ -9,7 +9,7 @@ export const Service = (props) => {
 
     return(
             <div className={style.service}>
-                <div className={style.btn}>
+                <div className={style.serviceBtn}>
                     <ServButton btn={props.button}/>
                 </div>
                 <div className={style.cont}>

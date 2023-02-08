@@ -7,6 +7,7 @@
   .cards {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     a{
       text-decoration: none;
     }
@@ -157,10 +158,53 @@
     }
   }
 }
-.wrapinfo{
-  div:nth-child(odd){
-    //h4, span{
-    //  color: white;
-    //}
+.specifications {
+  text-transform: uppercase;
+  font-size: 50px;
+  text-align: center;
+  width: 100%;
+  h2 {
+    padding: 80px 0;
+  }
+  .wrapSpec {
+    display: flex;
+    .boxSpec_1 {
+      margin-top: 96px;
+      .titleSpec {
+        width: 225px;
+        height: 120px;
+        display:flex;
+        justify-content: end;
+        align-items: center;
+        img {
+          width: 220px;
+          height: 35px;
+        }
+      }
+    }
+    .boxSpec_2 {
+      display: flex;
+      .contSpec {
+        width: 225px;
+        text-align: center;
+        white-space: pre-wrap;
+        h6, span {
+          font-size: 18px;
+        }
+        span {
+          text-transform: lowercase;
+          display: block;
+          line-height: 120px;
+          height: 120px;
+          b {
+            font-size: 25px;
+          }
+        }
+        img {
+          width: 170px;
+          height: 180px;
+        }
+      }
+    }
   }
 }

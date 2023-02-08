@@ -10,7 +10,7 @@ function App() {
     return (
         <div className={style.App}>
             <Header/>
-            <Main product={articles.products} card={articles.card} icons={articles.icons} accessories={articles.accessories} button={articles.button} info={articles.info}/>)}
+            <Main product={articles.products} card={articles.card} icons={articles.icons} accessories={articles.accessories} button={articles.button} info={articles.info} specification={articles.specifications}/>)}
             <Footer />
         </div>
     );

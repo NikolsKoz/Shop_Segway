@@ -2,21 +2,21 @@
   background-size: cover;
   background-repeat: no-repeat;
   max-width: 1206px;
-  //height: 547px;
-  .textInfo{
-    max-width: 810px;
-    height: 100%;
-    h4{
-      font-size: 50px;
-      color: #323941;
-      text-transform: uppercase;
-      line-height: 119%;
-    }
-    span{
-      font-size: 18px;
-      color: #323941;
-      line-height: 22px;
-    }
+  white-space: pre-wrap;
+  height: 240px;
+  h4{
+    font-size: 50px;
+    text-transform: uppercase;
+    line-height: 119%;
   }
+  span{
+    font-size: 18px;
+    line-height: 22px;
+  }
+  //.textInfo{
+  //  max-width: 810px;
+  //  height: 100%;
+  //
+  //}
 
 }
