@@ -6,7 +6,7 @@ import {Product_2} from "./Product/Product_2";
 import {Service} from "./Service/Service";
 import {BestSeller} from "./BestSeller/BestSeller";
 import {Accessories} from "./Accessories/Accessories";
-import {Features} from "./Features";
+import {Features} from "./Features/Features";
 import {Overview} from "./Overview/Overview";
 import {Info} from "./Info/Info";
 import {Specifications} from "./Specifications/Specifications";
