@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Shop_Segway/static/css/main.87e6c245.css",
-    "main.js": "/Shop_Segway/static/js/main.8d898292.js",
+    "main.css": "/Shop_Segway/static/css/main.1e693b56.css",
+    "main.js": "/Shop_Segway/static/js/main.70f31d87.js",
     "static/media/img-1.1.png": "/Shop_Segway/static/media/img-1.1.9cb4f74d5c71a59fa3c7.png",
     "static/media/app 1.png": "/Shop_Segway/static/media/app 1.b75141fa9a2ed8232053.png",
     "static/media/Photo-manager.png": "/Shop_Segway/static/media/Photo-manager.562d17518911324b4fdd.png",
     "index.html": "/Shop_Segway/index.html",
-    "main.87e6c245.css.map": "/Shop_Segway/static/css/main.87e6c245.css.map",
-    "main.8d898292.js.map": "/Shop_Segway/static/js/main.8d898292.js.map"
+    "main.1e693b56.css.map": "/Shop_Segway/static/css/main.1e693b56.css.map",
+    "main.70f31d87.js.map": "/Shop_Segway/static/js/main.70f31d87.js.map"
   },
   "entrypoints": [
-    "static/css/main.87e6c245.css",
-    "static/js/main.8d898292.js"
+    "static/css/main.1e693b56.css",
+    "static/js/main.70f31d87.js"
   ]
 }
