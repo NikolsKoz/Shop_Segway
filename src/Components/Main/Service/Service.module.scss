@@ -6,7 +6,7 @@
       height: 63px;
       display: flex;
 
-      a {
+      .servNav {
         display: flex;
         justify-content: center;
         width: 247px;
@@ -15,31 +15,43 @@
         background-repeat: no-repeat;
         background-position: center;
       }
-
-      a:hover {
+      .servNav:hover {
+        background-color: #6e7c8d;
+      }
+      .activeNav {
         background-color: #566270;
       }
     }
   }
-
-
   .cont {
     display: flex;
+    height: 210px;
     justify-content: space-between;
     padding: 0px 25px;
     background: #efefef;
-
     img{
       max-width: 260px;
       max-height: 165px;
       margin: 15px 0;
     }
     .servwrap{
-      margin: 25px 0;
-      h4{
-        max-width: 325px;
-        font-size: 25px;
-        margin-bottom: 15px;
+      display: none;
+    }
+    .activeContent {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      .textBlock {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        //margin: 55px 0;
+
+        h4{
+          max-width: 325px;
+          font-size: 25px;
+          margin-bottom: 15px;
+        }
       }
     }
     p {

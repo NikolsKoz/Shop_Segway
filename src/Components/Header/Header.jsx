@@ -1,22 +1,22 @@
-import React from "react";
+import React, {useState} from "react";
 import style from "./Header.module.scss";
-import {Logo_header, Basket, Instagram} from "../../assets/img/svg";
+import {Logo_header} from "../../assets/img/svg";
 import manager from "../../assets/img/Photo-manager.png";
-import {Link} from "react-router-dom";
+import { Link } from "react-scroll";
+import Navbar from "./Navbar";
+import {ModalWindow} from "../ModalWindow/ModalWindow";
 
 export const Header = () => {
+    const [modalActive, setModalActive] = useState(false)
     return (
-        <div className={style.header}>
-            <div className={style.contacts}>
-                <Link to="/Shop_Segway">REVIEWS</Link>
-                <Link to="/Shop_Segway">SHIPPING AND PAYMENT</Link>
-                <Link to="/Shop_Segway">WHOLESALE</Link>
-                <Link to="/Shop_Segway">BLOG</Link>
-                <Link to="/Shop_Segway">CONTACTS</Link>
-                <Link to="/Shop_Segway"><Basket /></Link>
-                <Link to="/Shop_Segway"><Instagram /></Link>
-                <Link to="/Shop_Segway">+1(888)888-88-88</Link>
+        <div id={"home"} className={style.header}>
+            <div className={style.navbar}>
+                <Navbar />
             </div>
+
+                <div className={style.contacts}>
+                </div>
+
             <div className={style.logo}>
                 <Link to="/Shop_Segway">
                     <Logo_header />
@@ -25,10 +25,28 @@ export const Header = () => {
                     <img src={manager} alt="photo-manager"/>
                     <div className={style.ask}>
                         <span>JOHN SMITH</span><br/>
-                        <Link to="/Shop_Segway">ask a question manager</Link>
+                        <button className={style.open_btn} onClick={()=> setModalActive(true)}>ask a question manager</button>
                     </div>
                 </div>
             </div>
+            <ModalWindow active={ modalActive} setActive={setModalActive}>
+                <div className={style.wrapForma}>
+                    <div className={style.photo}>
+                        <img src={manager} alt="photo-manager"/>
+                    </div>
+                    <div className={style.forma}>
+                        <form action="">
+                            Name<br/>
+                            <input type="text" placeholder="Enter your Name"/><br/>
+                            Phone<br/>
+                            <input type="text" placeholder="Enter your phone (e.g.+12344456788)"/><br/>
+                            Message<br/>
+                            <textarea rows="5" placeholder="Enter your message"></textarea><br/>
+                            <button>SEND</button>
+                        </form>
+                    </div>
+                </div>
+            </ModalWindow>
         </div>
     )
 }

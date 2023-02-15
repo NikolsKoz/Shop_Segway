@@ -7,6 +7,7 @@ export const TitleSpec = (props) => {
         <>
             <div className={style.titleSpec}>
                 <img src={props.item.icon} />
+                <span>{props.item.name}</span>
             </div>
             <hr/>
         </>

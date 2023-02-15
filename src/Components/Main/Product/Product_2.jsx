@@ -29,7 +29,7 @@ export const Product_2 = (props) => {
                             </div>
                             <div className={style.buttons}>
                                 <button className={style.btn_price}>BUY IT NOW</button>
-                                <button className={style.btn_price}>ADD TO CART</button>
+                                <button className={style.btn_price}>ADD TO BASKET</button>
                             </div>
                         </div>{/*------.guarantee*/}
 

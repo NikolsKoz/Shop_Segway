@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    align-items: center;
+    padding: 0 14%;
+    background-color:#323941;
+    height: 90px;
+    justify-content: space-between;
+    .logoHed {
+        height: min-content;
+    }
+    .contact {
+        height: min-content;
+        :nth-child(2){
+            margin: 0 45px;
+        }
+        span {
+            color: white;
+            font-size: 18px;
+        }
+    }
+}

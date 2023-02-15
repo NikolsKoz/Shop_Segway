@@ -3,7 +3,7 @@ import style from "./Overview.module.scss";
 
 export const Overview = () => {
     return(
-        <div className={style.overview}>
+        <div id={"overview"} className={style.overview}>
             <h2>KICKSCOOTER OVERVIEW SEGWAY NIDEBOT KICKSCOOTER MAX</h2>
             <div className={style.wrapOverview}>
                 <img src="https://drive.google.com/uc?id=1iVGTROd5ifTm3vTWD6ubC78Q8P19mSvq"/>
